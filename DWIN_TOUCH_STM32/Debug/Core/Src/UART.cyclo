@@ -1,0 +1,11 @@
+../Core/Src/UART.c:15:24:Calculate_BRR	4
+../Core/Src/UART.c:30:13:UART1_Init	4
+../Core/Src/UART.c:46:13:UART3_Init	4
+../Core/Src/UART.c:62:6:USART1_Send_Char	3
+../Core/Src/UART.c:76:6:USART3_Send_Char	3
+../Core/Src/UART.c:90:6:USART1_Send_String	2
+../Core/Src/UART.c:98:6:USART3_Send_String	2
+../Core/Src/UART.c:105:6:Send_On_Display_Uart	2
+../Core/Src/UART.c:112:6:Uart_Printf	1
+../Core/Src/UART.c:121:6:Universal_Asyn_Rx_Tx_1_Init	1
+../Core/Src/UART.c:125:6:Universal_Asyn_Rx_Tx_3_Init	1

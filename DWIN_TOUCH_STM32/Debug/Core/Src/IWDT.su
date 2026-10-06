@@ -1,0 +1,2 @@
+../Core/Src/IWDT.c:24:6:IWDG_Init	24	static
+../Core/Src/IWDT.c:64:6:IWDG_Refresh	4	static

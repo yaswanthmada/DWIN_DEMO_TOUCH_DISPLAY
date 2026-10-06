@@ -1,0 +1,6 @@
+../Core/Src/RCC.c:18:13:system_clock_init_to_72MHZ	4
+../Core/Src/RCC.c:32:10:Get_SYSCLK_freq	8
+../Core/Src/RCC.c:61:10:Get_AHB_freq	1
+../Core/Src/RCC.c:67:10:Get_APB1_freq	1
+../Core/Src/RCC.c:72:10:Get_APB2_freq	1
+../Core/Src/RCC.c:77:6:Stm32f103_System_Clock_Init	1
